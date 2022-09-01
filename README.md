@@ -4,7 +4,6 @@
 
 ![contribution graph](images/contribution-graph.png)
 
-Message @Badger 2-3
 
 <!--
 **willj4945/willj4945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
