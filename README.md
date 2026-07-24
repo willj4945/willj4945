@@ -13,9 +13,7 @@ I specialize in turning complex regulatory and compliance requirements into prac
 - Build tools that reduce manual GRC work while strengthening security posture
 
 ### 🚀 Featured Projects
-- **[eMASS Automation](https://github.com/willj4945/eMASS-Automation)** — Serverless AWS solution for automated compliance data extraction and integration with eMASS (RMF/authorization workflows)
 - **[CloudComply](https://github.com/willj4945/cloudcomply)** — Compliance and security tooling
-- **[Py-Scan / Gopher-Scan](https://github.com/willj4945)** — Reconnaissance and scanning tools
 - **[CycloneDx-Viewer](https://github.com/willj4945/CycloneDx-Viewer)** — SBOM visualization and analysis tool
 
 [View Full Portfolio →](https://willj4945.github.io/portfoliov2/)
